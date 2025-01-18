@@ -1,0 +1,15 @@
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\bin\Debug\net8.0\Basic problems.exe
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\bin\Debug\net8.0\Basic problems.deps.json
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\bin\Debug\net8.0\Basic problems.runtimeconfig.json
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\bin\Debug\net8.0\Basic problems.dll
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\bin\Debug\net8.0\Basic problems.pdb
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.AssemblyInfoInputs.cache
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.AssemblyInfo.cs
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.csproj.CoreCompileInputs.cache
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.sourcelink.json
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.dll
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\refint\Basic problems.dll
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.pdb
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\Basic problems.genruntimeconfig.cache
+C:\Users\Tripti\OneDrive\Desktop\tripti\DSA code\Basic problems\Basic problems\obj\Debug\net8.0\ref\Basic problems.dll
