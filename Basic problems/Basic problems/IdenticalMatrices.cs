@@ -1,4 +1,5 @@
-﻿
+﻿//Time complexity: O(n^2)
+//Space complexity: O(1)
 class IdenticalMatrices
 {
     public bool IsIdentical(int[,] a, int[,] b)
@@ -17,24 +18,24 @@ class IdenticalMatrices
         }
         return true;
     }
-    public static void Main(string[] args)
-    {
-        int[,] A = { {1, 1, 1, 1},
-                    {2, 2, 2, 2},
-                    {3, 2, 3, 3},
-                    {4, 4, 4, 4}};
+    //public static void Main(string[] args)
+    //{
+    //    int[,] A = { {1, 1, 1, 1},
+    //                {2, 2, 2, 2},
+    //                {3, 2, 3, 3},
+    //                {4, 4, 4, 4}};
 
-        int[,] B = { {1, 1, 1, 1},
-                    {2, 2, 2, 2},
-                    {3, 3, 3, 3},
-                    {4, 4, 4, 4}};
+    //    int[,] B = { {1, 1, 1, 1},
+    //                {2, 2, 2, 2},
+    //                {3, 3, 3, 3},
+    //                {4, 4, 4, 4}};
 
-        IdenticalMatrices obj = new IdenticalMatrices();
-        if (obj.IsIdentical(A, B)) {
-            Console.WriteLine("The two square matrices are identical");
-        }
-        else {
-            Console.WriteLine("The two square matrices are not identical");
-        }
-    }
+    //    IdenticalMatrices obj = new IdenticalMatrices();
+    //    if (obj.IsIdentical(A, B)) {
+    //        Console.WriteLine("The two square matrices are identical");
+    //    }
+    //    else {
+    //        Console.WriteLine("The two square matrices are not identical");
+    //    }
+    //}
 }
