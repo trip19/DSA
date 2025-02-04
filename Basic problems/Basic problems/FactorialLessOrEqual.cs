@@ -20,10 +20,10 @@ class FactorialLessOrEqual
             i++;
         }
     }
-    public static void Main(string[] args)
-    {
-        int n = 1000;
-        FactorialLessOrEqual obj = new FactorialLessOrEqual();
-        obj.FactLessOrEqual(n);
-    }
+    //public static void Main(string[] args)
+    //{
+    //    int n = 1000;
+    //    FactorialLessOrEqual obj = new FactorialLessOrEqual();
+    //    obj.FactLessOrEqual(n);
+    //}
 }

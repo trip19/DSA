@@ -20,7 +20,7 @@ class FloydsTriangle
     }
     //public static void Main(string[] args)
     //{
-    //    int n = 5;
+    //    int n = 6;
     //    FloydsTriangle obj = new FloydsTriangle();
     //    obj.PrintFloydsTriangle(n);
     //}
