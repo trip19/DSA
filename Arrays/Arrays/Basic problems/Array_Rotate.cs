@@ -29,10 +29,10 @@ class ArrayRotate
     //        Console.Write(arr[i] + " ");
     //    }
     //}
-    public static void Main()
-    {
-        int[] arr = { 1, 2, 3 };
-        int d = 4;
-        RotateArray(arr, d);
-    }
+    //public static void Main()
+    //{
+    //    int[] arr = { 1, 2, 3 };
+    //    int d = 4;
+    //    RotateArray(arr, d);
+    //}
 }
