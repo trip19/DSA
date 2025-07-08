@@ -10,7 +10,7 @@ class BuubbleSort
         {
             swapped = false;
             for (j = 0; j < arr.Length - i - 1; j++)
-            {
+            { 
                 if (arr[j] > arr[j + 1])
                 {
                     temp = arr[j];
